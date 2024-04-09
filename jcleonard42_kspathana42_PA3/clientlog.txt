@@ -1,0 +1,24 @@
+2023-10-19 21:30:37,254 Sending HELLO Packet
+2023-10-19 21:30:37,255 Received Data: version: 17 type: 1 length: 7
+2023-10-19 21:30:37 VERSION ACCEPTED
+2023-10-19 21:30:37,255 Sending command
+2023-10-19 21:30:37,256 Received Data: version: 17 type: 1 length: 7
+2023-10-19 21:30:37,256 VERSION ACCEPTED
+2023-10-20 16:45:33,444 Sending HELLO Packet
+2023-10-20 16:45:33,444 Received Data: version: 17 type: 1 length: 7
+2023-10-20 16:45:33 VERSION ACCEPTED
+2023-10-20 16:45:33,445 Sending command
+2023-10-20 16:45:33,445 Received Data: version: 17 type: 1 length: 7
+2023-10-20 16:45:33,445 VERSION ACCEPTED
+2023-10-20 17:00:58,322 Sending HELLO Packet
+2023-10-20 17:00:58,322 Received Data: version: 17 type: 1 length: 7
+2023-10-20 17:00:58 VERSION ACCEPTED
+2023-10-20 17:00:58,322 Sending command
+2023-10-20 17:00:58,323 Received Data: version: 17 type: 1 length: 7
+2023-10-20 17:00:58,323 VERSION ACCEPTED
+2023-10-20 17:09:48,272 Sending HELLO Packet
+2023-10-20 17:09:48,272 Received Data: version: 17 type: 1 length: 7
+2023-10-20 17:09:48 VERSION ACCEPTED
+2023-10-20 17:09:48,272 Sending command
+2023-10-20 17:09:48,272 Received Data: version: 17 type: 1 length: 7
+2023-10-20 17:09:48,273 VERSION ACCEPTED

@@ -1,0 +1,36 @@
+2023-10-19 21:27:33 Server started on port 8080
+2023-10-19 21:27:39 Received connection from 127.0.0.1:61091
+2023-10-19 21:27:39 Received Data: version: 17 type: 1 length: 5
+2023-10-19 21:27:39 VERSION ACCEPTED
+2023-10-19 21:27:39 Received Data: version: 17 type: 2 length: 7
+2023-10-19 21:27:39 EXECUTING SUPPORTED COMMAND: LIGHTON
+2023-10-19 21:27:39 Connection from 127.0.0.1:61091 is closed
+2023-10-19 21:28:45 Received connection from 127.0.0.1:61202
+2023-10-19 21:28:45 Received Data: version: 17 type: 1 length: 5
+2023-10-19 21:28:45 VERSION ACCEPTED
+2023-10-19 21:28:45 Received Data: version: 17 type: 2 length: 7
+2023-10-19 21:28:45 EXECUTING SUPPORTED COMMAND: LIGHTON
+2023-10-19 21:28:45 Connection from 127.0.0.1:61202 is closed
+2023-10-19 21:29:05 Received connection from 127.0.0.1:61236
+2023-10-19 21:29:05 Received Data: version: 17 type: 1 length: 5
+2023-10-19 21:29:05 VERSION ACCEPTED
+2023-10-19 21:29:05 Received Data: version: 17 type: 2 length: 7
+2023-10-19 21:29:05 EXECUTING SUPPORTED COMMAND: LIGHTON
+2023-10-19 21:29:05 Connection from 127.0.0.1:61236 is closed
+2023-10-19 21:29:13 Received connection from 127.0.0.1:61250
+2023-10-19 21:29:13 Received Data: version: 17 type: 1 length: 5
+2023-10-19 21:29:13 VERSION ACCEPTED
+2023-10-19 21:29:13 Received Data: version: 17 type: 2 length: 7
+2023-10-19 21:29:13 EXECUTING SUPPORTED COMMAND: LIGHTON
+2023-10-19 21:29:13 Connection from 127.0.0.1:61250 is closed
+2023-10-19 21:30:27 Received connection from 127.0.0.1:61395
+2023-10-19 21:30:27 Received Data: version: 17 type: 1 length: 5
+2023-10-19 21:30:27 VERSION ACCEPTED
+2023-10-19 21:30:27 Received Data: version: 17 type: 2 length: 7
+2023-10-19 21:30:27 EXECUTING SUPPORTED COMMAND: LIGHTON
+2023-10-19 21:30:27 Connection from 127.0.0.1:61395 is closed
+2023-10-19 21:30:37 Received connection from 127.0.0.1:61416
+2023-10-19 21:30:37 Received Data: version: 17 type: 1 length: 5
+2023-10-19 21:30:37 VERSION ACCEPTED
+2023-10-19 21:30:37 Received Data: version: 17 type: 2 length: 7
+2023-10-19 21:30:37 EXECUTING SUPPORTED COMMAND: LIGHTON
